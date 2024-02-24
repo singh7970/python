@@ -9,4 +9,4 @@ print(random.random())
 p=[12,123,112,3443,2343,4,46,6,54]
 random.shuffle(p)
 print(p)
-print("1020012")
+print("1020012") 
